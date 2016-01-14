@@ -21,3 +21,5 @@ group :test do
   gem "rspec", "~> 3.3.0"
   gem "database_cleaner", "~> 1.5.1"
 end
+
+gem 'coveralls', require: false
